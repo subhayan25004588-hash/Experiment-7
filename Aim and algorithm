@@ -1,0 +1,23 @@
+1. Aim
+To write a Python program to demonstrate Object-Oriented Programming (OOP) concepts using classes, objects, and inheritance.
+
+2. Algorithm
+Start the program.
+
+Create a parent class named Person.
+
+Define a constructor to initialize the name and age.
+
+Create a method to display the person's details.
+
+Create a child class named Student that inherits the Person class.
+
+Add a constructor to initialize the roll number and course.
+
+Use the super() function to call the parent class constructor.
+
+Create an object of the Student class.
+
+Display the student details using the object.
+
+Stop the program.
